@@ -39,6 +39,7 @@
         <connection>scm:git:git@github.com:apache/rocketmq.git</connection>
         <developerConnection>scm:git:git@github.com:apache/rocketmq.git</developerConnection>
         <tag>HEAD</tag>
+      
     </scm>
 
     <mailingLists>
